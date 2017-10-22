@@ -1,0 +1,30 @@
+
+Overview
+Forked from https://github.com/python-programmer/kivy-simple-mvc-template
+         to https://github.com/DaleEMoore/kivy-simple-mvc-template
+
+
+
+TODO
+Oh that's right, I remember now - this project kivy-simple-mvc-template does lots of stuff in an
+arabic (I think) language. I don't see data being changed here. Perhaps I just don't know how to
+drive the program...
+    Spend some time learning how to drive kivy-simple-mvc-template.
+    Evalute kivy-simple-mvc-template for MVC use.
+
+
+Figure out what I need to do for MVC, or other;
+    DB CRUD for intRep.
+
+
+
+
+
+Logs
+Saturday 21 October 2017 1:55 PM CST
+Created
+
+Several "NameError: name 'unicode' is not defined"
+    Don't use python3, use python2. File, Settings, Project, Interpreter python 2.
+    That fixed the "NameError: name 'unicode' is not defined" problem
+
