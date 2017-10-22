@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 # _*_ coding: UTF8 _*_
 import kivy
 from Controller.feature import FeatureOperation
